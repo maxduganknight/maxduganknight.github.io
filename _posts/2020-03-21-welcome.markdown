@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2020-03-21 14:42:48 -0700
+categories: jekyll update
+---
+Thanks for visiting my website. I am just getting started setting it up. More to come!
