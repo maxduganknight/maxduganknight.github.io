@@ -26,11 +26,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maxduganknight
 github_username:  maxduganknight
 linkedin_username: maxduganknight
+gmail_username: maxduganknight
 
 # Build settings
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
+theme: minima
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
