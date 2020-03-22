@@ -28,7 +28,7 @@ github_username:  maxduganknight
 linkedin_username: maxduganknight
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
