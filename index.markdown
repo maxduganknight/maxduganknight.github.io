@@ -5,7 +5,9 @@
 layout: home
 ---
 
-Welcome to my personal website. I'm interested in data and improving public policy. I am an incoming Applied Social Data Science student at the London School of Economics. I previously worked at [YouthTruth][YouthTruth] where I used survey data to help school leaders improve their schools.
+Welcome to my personal website. I'm interested in data and improving public policy. 
+
+I am an incoming Applied Social Data Science student at the London School of Economics. I previously worked at [YouthTruth][YouthTruth] where I used survey data to help school leaders improve their schools.
 <br/><br/>
 <img src="/assets/images/me.jpeg" width="250"/>
 <br/><br/>
