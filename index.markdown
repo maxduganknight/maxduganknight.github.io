@@ -20,5 +20,5 @@ Before coming to LSE, I spent 4 years working with data at [YouthTruth][YouthTru
 
 
 
-[YouthTruth]: https://youthtruthsurvey.org
-[Care Policy and Evaluation Centre]: https://www.lse.ac.uk/cpec
+[YouthTruth]: (https://youthtruthsurvey.org){:target="_blank"}
+[Care Policy and Evaluation Centre]: (https://www.lse.ac.uk/cpec){:target="_blank"}
