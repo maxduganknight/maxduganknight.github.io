@@ -5,9 +5,12 @@
 layout: home
 ---
 
-Welcome to my personal website. I'm interested in data and improving public policy. 
+Welcome to my personal website. I'm interested in using data to improve public policy. 
 
-I am an incoming Applied Social Data Science student at the London School of Economics. I previously worked at [YouthTruth][YouthTruth] where I used survey data to help school leaders improve their schools.
+I am currently pursuing a Master's degree at the London School of Economics and Political Science in Applied Social Data Science where I apply quantitative methods like machine learning to social science problems. I am also a part-time Data Science Research Assistant at the [Care Policy and Evaluation Centre][Care Policy and Evaluation Centre].
+
+Before coming to LSE, I spent 4 years working with data at [YouthTruth][YouthTruth] to help schools in the U.S. improve learning outcomes for students. My work was a blend of data analysis, product development, building data pipelines, automating previously manual tasks, and communicating quantitative insights to the team. 
+
 <br/><br/>
 <img src="/assets/images/me.jpeg" width="250"/>
 <br/><br/>
@@ -18,3 +21,4 @@ I am an incoming Applied Social Data Science student at the London School of Eco
 
 
 [YouthTruth]: https://youthtruthsurvey.org
+[Care Policy and Evaluation Centre]: https://www.lse.ac.uk/cpec
