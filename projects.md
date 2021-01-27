@@ -15,7 +15,7 @@ permalink: /projects/
 
 Bergeron, L., Dugan-Knight, M., Kamdar, S., Vorse Wilka, J., Boesche-Taylor, B. (2019, April). An Exploration of the Role of Likert Items in School-Based Survey Analysis. Paper presentation at the annual conference of the American Educational Research Association (AERA), Toronto, Canada. [PDF][likert-analysis]
 
-[proj-tweets]: https://maxduganknight.github.io/proj_tweets/proj_tweets.html
+[proj-tweets]: https://maxduganknight.github.io/projects/proj_tweets/
 [likert-analysis]: https://maxduganknight.github.io/folder/likert-analysis.pdf
 
 
