@@ -1,13 +1,9 @@
 
----
-layout: page
-title: "South America Tweets Visualization"
-permalink: /projects/proj_tweets/
----
+# South America Tweets Visualization
 
 For this project, I use Twitter data to analyze language use in Tweets in South America. I use the "rtweet" package to stream and process tweets using the Twitter API. I have not included the actual streamed Twitter data in this repository for anonymity and confidentiality reasons. I then used a combination of the "ggplot2" and "maps" packages to create the visualization.
 
-<img src="/proj_tweets/tweets_map.jpeg" width="350"/>
+<img src="/proj_tweets/tweets_map.jpeg" width="400"/>
 
 ## Highlights
 
