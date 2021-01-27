@@ -2,7 +2,7 @@
 # South America Tweet Visualization
 For this project, I use Twitter data to analyze language use in Tweets in South America. I use the "rtweet" package to stream and process tweets using the Twitter API. I have not included the actual streamed Twitter data in this repository for anonymity and confidentiality reasons. I then used a combination of the "ggplot2" and "maps" packages to create the visualization.
 
-<img src="/tweets_map.jpeg" width="250"/>
+<img src="/proj_tweets/tweets_map.jpeg" width="250"/>
 
 ## Highlights
 The map visualization is interesting for a few reasons. First of all, it demonstrates the usefulness of the Twitter language data. This data required some cleaning but the clear division between Spanish and Portuguese Tweets along the Brazil border, for example, validates the accuracy of this data and visualization method.
