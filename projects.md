@@ -9,13 +9,16 @@ permalink: /projects/
 
 ## Visualizations
 
-South America Tweets Visualization
+[South America Tweets Visualization][proj-tweets]
 
 ## Research
 
 Bergeron, L., Dugan-Knight, M., Kamdar, S., Vorse Wilka, J., Boesche-Taylor, B. (2019, April). An Exploration of the Role of Likert Items in School-Based Survey Analysis. Paper presentation at the annual conference of the American Educational Research Association (AERA), Toronto, Canada. [PDF][likert-analysis]
 
+[proj-tweets]: https://maxduganknight.github.io/proj_tweets/proj_tweets.html
 [likert-analysis]: https://maxduganknight.github.io/folder/likert-analysis.pdf
+
+
 
 
 
