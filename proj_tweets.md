@@ -5,6 +5,7 @@
 layout: page
 title: "South America Tweets Visualization"
 permalink: /projects/proj_tweets/
+exclude: true
 ---
 
 
