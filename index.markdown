@@ -11,7 +11,6 @@ I am currently pursuing a Master's degree at the London School of Economics and 
 
 Before coming to LSE, I spent 4 years working with data at [YouthTruth][YouthTruth] to help schools in the U.S. improve learning outcomes for students. My work was a blend of data analysis, product development, building data pipelines, automating previously manual tasks, and communicating quantitative insights to the team. 
 
-<br/><br/>
 <img src="/assets/images/me.jpeg" width="250"/>
 <br/><br/>
 <div style="text-align:left">
