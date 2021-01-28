@@ -9,12 +9,14 @@ permalink: /projects/
 
 ## Visualizations
 
-[South America Tweets][proj-tweets]<br/><br/>
+[South America Tweets][proj-tweets]
+
 [<img src="/proj_tweets/tweets_map.jpeg" width="150"/>][proj-tweets]
 
 ## Research
 
-### [An Exploration of the Role of Likert Items in School-Based Survey Analysis.][likert-paper]
+
+#### <b>[An Exploration of the Role of Likert Items in School-Based Survey Analysis.][likert-paper]</b>
 
 #### Presented at the annual conference of the <i>American Educational Research Associatiation (AERA)</i>, 2019
 
