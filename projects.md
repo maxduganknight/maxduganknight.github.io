@@ -9,7 +9,7 @@ permalink: /projects/
 
 ## Visualizations
 
-[South America Tweets Visualization][proj-tweets]
+[<img src="/proj_tweets/tweets_map.jpeg" width="150"/>][proj-tweets]
 
 ## Research
 
