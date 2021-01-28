@@ -10,7 +10,7 @@ permalink: /projects/proj_tweets/
 For this project, I used Twitter data to analyze language use in Tweets across South America. I streamed tweets for over 10 hours using the "rtweet" package and the Twitter API, restricting my stream to the geographic coordinates of South America. The "ggplot2" and "maps" packages helped me construct this visualization from the streamed Twitter data. 
 
 
-<img src="/proj_tweets/tweets_map.jpeg" width="400"/>
+[<img src="/proj_tweets/tweets_map.jpeg" width="400"/>][github-tweets-image]
 
 ## Highlights
 
@@ -24,6 +24,7 @@ The visualization also gives some insight into where South American tweeters are
 
 Some ideas and code were borrowed from Friedrich Geiecke (Assistant Professor, The London School of Economics and Political Science).
 
-<i>Graphics were created using R. Code on [Github][github_tweets].</i>
+<i>Graphics were created using R. Code on [Github][github-tweets].</i>
 
-[github_tweets]: https://github.com/maxduganknight/visualization-projects/tree/main/south-america-tweets
+[github-tweets]: https://github.com/maxduganknight/visualization-projects/tree/main/south-america-tweets
+[github-tweets-image]: https://github.com/maxduganknight/visualization-projects/blob/main/south-america-tweets/graphics/tweets_map.pdf
