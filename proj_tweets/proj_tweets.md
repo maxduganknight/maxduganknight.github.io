@@ -1,9 +1,9 @@
----
+<!-- ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /projects/proj_tweets/
----
+--- -->
 
 For this project, I use Twitter data to analyze language use in Tweets in South America. I use the "rtweet" package to stream and process tweets using the Twitter API. I have not included the actual streamed Twitter data in this repository for anonymity and confidentiality reasons. I then used a combination of the "ggplot2" and "maps" packages to create the visualization.
 
