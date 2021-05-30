@@ -9,13 +9,14 @@ permalink: /projects/
 
 This page has a sample of projects I've worked on. More projects can be found on [my GitHub page][GitHub] as well as the code for the projects listed here.
 
+
+
 ### [PySpark Topic Modelling][proj-pyspark]
 
 This project was my final assignment for Distributed Computing for Big Data, a postgraduate course in the LSE statistics department.
 
 
-<img src="/proj_pyspark/efficiency.jpeg" width="300"/>
-
+[<img src="/proj_pyspark/efficiency_test.jpeg" width="300"/>][proj-pyspark]
 
 
 
