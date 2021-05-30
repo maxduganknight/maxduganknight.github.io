@@ -15,7 +15,7 @@ This page has a sample of projects I've worked on. More projects can be found on
 This project will ultimately be my dissertation for my Master's Degree in Applied Social Data Science from LSE. It is in progress but please feel free to explore the GitHub repo where I am building the classification models and visualizing the data.
 
 
-[<img src="/proj_covid/cases_keyword_mentions_over_time.jpeg" width="350"/>][proj-covid]
+[<img src="/proj_covid/cases_keyword_mentions_over_time.jpeg" width="450"/>][proj-covid]
 
 
 
@@ -24,7 +24,7 @@ This project will ultimately be my dissertation for my Master's Degree in Applie
 This project was my final assignment for Distributed Computing for Big Data, a postgraduate course in the LSE statistics department.
 
 
-[<img src="/proj_pyspark/efficiency_test.jpeg" width="350"/>][proj-pyspark]
+[<img src="/proj_pyspark/efficiency_test.jpeg" width="450"/>][proj-pyspark]
 
 
 
