@@ -7,14 +7,19 @@ title: "Projects"
 permalink: /projects/
 ---
 
+This page has a sample of projects I've worked on. More projects can be found on [my GitHub page][GitHub] as well as the code for the projects listed here.
+
 ### [PySpark Topic Modelling][proj-pyspark]
 
 [<img src="/proj_pyspark/efficiency.jpeg" width="250"/>][proj-pyspark]
 
 
+
+
 ### [South America Tweets Visualization][proj-tweets]
 
 [<img src="/proj_tweets/tweets_map.jpeg" width="200"/>][proj-tweets]
+
 
 
 ## Research
@@ -27,6 +32,7 @@ This paper explores Likert item treatment in school-based surveys. It is common 
 
 ##### Bergeron, L., <b>Dugan-Knight, M.</b>, Kamdar, S., Vorse Wilka, J., Boesche-Taylor, B. (2019, April). An Exploration of the Role of Likert Items in School-Based Survey Analysis. Paper presentation at the annual conference of the American Educational Research Association (AERA), Toronto, Canada. <b>[PDF][likert-paper]</b>
 
+[GitHub]: https://github.com/maxduganknight
 [proj-pyspark]: https://maxduganknight.github.io/folder/project.html
 [proj-tweets]: https://maxduganknight.github.io/projects/proj_tweets/
 [likert-paper]: https://maxduganknight.github.io/folder/likert-analysis.pdf
