@@ -14,7 +14,7 @@ This page has a sample of projects I've worked on. More projects can be found on
 This project was my final assignment for Distributed Computing for Big Data, a postgraduate course in the LSE statistics department.
 
 
-[<img src="/proj_pyspark/efficiency.jpeg" width="300"/>][proj-pyspark]
+<img src="/proj_pyspark/efficiency.jpeg" width="300"/>
 
 
 
