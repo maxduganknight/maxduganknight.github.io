@@ -12,7 +12,6 @@ permalink: /projects/
 [<img src="/proj_pyspark/efficiency.jpeg" width="150"/>][proj-pyspark]
 
 
-
 ### [South America Tweets Visualization][proj_tweets]
 
 [<img src="/proj_tweets/tweets_map.jpeg" width="150"/>][proj-tweets]
@@ -28,7 +27,7 @@ This paper explores Likert item treatment in school-based surveys. It is common 
 
 ##### Bergeron, L., <b>Dugan-Knight, M.</b>, Kamdar, S., Vorse Wilka, J., Boesche-Taylor, B. (2019, April). An Exploration of the Role of Likert Items in School-Based Survey Analysis. Paper presentation at the annual conference of the American Educational Research Association (AERA), Toronto, Canada. <b>[PDF][likert-paper]</b>
 
-[proj_pyspark]: https://github.com/maxduganknight/PySpark-text-analysis/blob/main/project.ipynb
+[proj_pyspark]: https://maxduganknight.github.io/projects/proj_pyspark/project.html
 [proj-tweets]: https://maxduganknight.github.io/projects/proj_tweets/
 [likert-paper]: https://maxduganknight.github.io/folder/likert-analysis.pdf
 
