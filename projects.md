@@ -34,9 +34,7 @@ This project was my final assignment for Distributed Computing for Big Data, a p
 
 
 
-## Research
-
-#### <b>[An Exploration of the Role of Likert Items in School-Based Survey Analysis.][likert-paper]</b>
+### <b>[An Exploration of the Role of Likert Items in School-Based Survey Analysis.][likert-paper]</b>
 
 Presented at the annual conference of the <i>American Educational Research Association (AERA)</i>, 2019
 
