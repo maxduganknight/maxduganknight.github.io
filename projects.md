@@ -11,6 +11,8 @@ This page has a sample of projects I've worked on. More projects can be found on
 
 ### [PySpark Topic Modelling][proj-pyspark]
 
+This project was my final assignment for Distributed Computing for Big Data, a postgraduate course in the LSE statistics department.
+
 [<img src="/proj_pyspark/efficiency.jpeg" width="250"/>][proj-pyspark]
 
 
