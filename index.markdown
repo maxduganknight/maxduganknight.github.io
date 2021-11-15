@@ -5,9 +5,9 @@
 layout: home
 ---
 
-Welcome to my personal website! I'm interested in using data to improve public policy. 
+Welcome to my personal website! I'm a Data Scientist interested in solving problems with data and machine learning. 
 
-I am currently pursuing a Master's degree at the London School of Economics and Political Science in Applied Social Data Science where I apply quantitative methods like machine learning to social science problems. I am also a part-time Data Science Research Assistant at the [Care Policy and Evaluation Centre][Care Policy and Evaluation Centre].
+I am Customer Facing Data Scientist at DataRobot where I help orgnaizations create value from their data using automated machine learning. I have a Master's degree from the London School of Economics and Political Science in Applied Social Data Science where I applied quantitative methods like machine learning to social science problems. I was also a part-time Data Science Research Assistant at the [Care Policy and Evaluation Centre][Care Policy and Evaluation Centre].
 
 Before LSE, I spent 4 years working with data at [YouthTruth][YouthTruth] to help schools in the U.S. improve learning outcomes for students. My work was a blend of data analysis, product development, building data pipelines, automating previously manual tasks, and communicating quantitative insights to the team. 
 
