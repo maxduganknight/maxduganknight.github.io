@@ -11,7 +11,7 @@ I currently work at [DataRobot][DataRobot] where I help organizations create val
 
 Before LSE I spent 4 years working with data at [YouthTruth][YouthTruth] to help schools in the U.S. improve learning outcomes for students. My work was a blend of data analysis, product development, building data pipelines, automating previously manual tasks, and communicating quantitative insights to the team. 
 
-Feel free to explore some of my previous projects using the link above and reach out!
+Feel free to explore some of my previous work using the Projects link above and reach out!
 
 <img src="/assets/images/me.jpeg" width="250"/>
 <br/><br/>
