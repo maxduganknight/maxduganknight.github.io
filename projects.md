@@ -9,11 +9,15 @@ permalink: /projects/
 
 This page has a sample of projects I've worked on. More projects can be found on [my GitHub page][GitHub] as well as the code for the projects listed here.
 
+
+
 ### [Tackling Churn with ML - Before Modelling][proj-churn]
 
 I co-wrote a blog post about how to address customer churn using machine learning and DataRobot and avoid common pitfalls. 
 
 [<img src="/proj_churn/safer.png" width="450"/>][proj-churn]
+
+
 
 
 ### [Using Supervised Machine Learning to Classify Politicians' Speech about COVID-19 Restrictions][proj-covid]
@@ -23,6 +27,8 @@ This was my dissertation for my Master's Degree in Applied Social Data Science f
 [<img src="/proj_covid/cases_keyword_mentions_over_time.jpeg" width="450"/>][proj-covid]
 
 
+
+
 ### [PySpark Topic Modelling][proj-pyspark]
 
 This project was my final assignment for Distributed Computing for Big Data, a postgraduate course in the LSE statistics department.
@@ -30,9 +36,13 @@ This project was my final assignment for Distributed Computing for Big Data, a p
 [<img src="/proj_pyspark/efficiency_test.jpeg" width="450"/>][proj-pyspark]
 
 
+
+
 ### [South America Tweets Visualization][proj-tweets]
 
 [<img src="/proj_tweets/tweets_map.jpeg" width="200"/>][proj-tweets]
+
+
 
 
 ### [An Exploration of the Role of Likert Items in School-Based Survey Analysis.][likert-paper]
