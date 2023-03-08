@@ -9,6 +9,12 @@ permalink: /projects/
 
 This page has a sample of projects I've worked on. More projects can be found on [my GitHub page][GitHub] as well as the code for the projects listed here.
 
+### [Tackling Churn with ML - Before Modelling][proj-churn]
+
+I co-wrote a blog post about how to address customer churn using machine learning and avoid common pitfalls. 
+
+[<img src="/proj_churn/safer.png" width="450"/>][proj-churn]
+
 
 ### [Using Supervised Machine Learning to Classify Politicians' Speech about COVID-19 Restrictions][proj-covid]
 
@@ -38,6 +44,7 @@ This paper explores Likert item treatment in school-based surveys. It is common 
 ##### Bergeron, L., <b>Dugan-Knight, M.</b>, Kamdar, S., Vorse Wilka, J., Boesche-Taylor, B. (2019, April). An Exploration of the Role of Likert Items in School-Based Survey Analysis. Paper presentation at the annual conference of the American Educational Research Association (AERA), Toronto, Canada. <b>[PDF][likert-paper]</b>
 
 [GitHub]: https://github.com/maxduganknight
+[proj-churn]: https://htmlpreview.github.io/?https://github.com/datarobot-community/ai-accelerators/blob/main/game-changer/churn_blog/Churn_Before_Modelling.html
 [proj-covid]: https://maxduganknight.github.io/folder/final_paper.pdf
 [proj-pyspark]: https://maxduganknight.github.io/folder/project.html
 [proj-tweets]: https://maxduganknight.github.io/projects/proj_tweets/
