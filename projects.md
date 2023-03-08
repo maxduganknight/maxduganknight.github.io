@@ -11,7 +11,7 @@ This page has a sample of projects I've worked on. More projects can be found on
 
 ### [Tackling Churn with ML - Before Modelling][proj-churn]
 
-I co-wrote a blog post about how to address customer churn using machine learning and avoid common pitfalls. 
+I co-wrote a blog post about how to address customer churn using machine learning and DataRobot and avoid common pitfalls. 
 
 [<img src="/proj_churn/safer.png" width="450"/>][proj-churn]
 
