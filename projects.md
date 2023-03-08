@@ -8,8 +8,9 @@ permalink: /projects/
 ---
 
 This page has a sample of projects I've worked on. More projects can be found on [my GitHub page][GitHub] as well as the code for the projects listed here.
+---
 
----<br><br>
+<br><br>
 
 ### [Tackling Churn with ML - Before Modelling][proj-churn]
 
