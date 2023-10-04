@@ -44,7 +44,7 @@ This paper explores Likert item treatment in school-based surveys. It is common 
 ##### Bergeron, L., <b>Dugan-Knight, M.</b>, Kamdar, S., Vorse Wilka, J., Boesche-Taylor, B. (2019, April). An Exploration of the Role of Likert Items in School-Based Survey Analysis. Paper presentation at the annual conference of the American Educational Research Association (AERA), Toronto, Canada. <b>[PDF][likert-paper]</b>
 
 [GitHub]: https://github.com/maxduganknight
-[proj-churn]: https://htmlpreview.github.io/?https://github.com/datarobot-community/ai-accelerators/blob/main/game-changer/churn_blog/Churn_Before_Modelling.html
+[proj-churn]: https://github.com/datarobot-community/ai-accelerators/blob/main/use_cases_and_horizontal_approaches/churn_problem_framing_feature_eng/Churn_Before_Modelling.ipynb
 [proj-covid]: https://maxduganknight.github.io/folder/final_paper.pdf
 [proj-pyspark]: https://maxduganknight.github.io/folder/project.html
 [proj-tweets]: https://maxduganknight.github.io/projects/proj_tweets/
