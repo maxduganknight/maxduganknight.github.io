@@ -13,7 +13,7 @@ Before Deep Sky I worked at [DataRobot][DataRobot] where I helped organizations 
 
 Feel free to explore some of my previous work using the Projects link above and reach out!
 
-<img src="/assets/images/headshot.jpeg" width="250"/>
+<img src="/assets/images/headshot.jpg" width="250"/>
 <br/><br/>
 <div style="text-align:left">
     <ul class="social-media-list">
@@ -23,15 +23,12 @@ Feel free to explore some of my previous work using the Projects link above and 
                 <span class="username">maxduganknight</span>
             </a>
         </li>
-        <li>
-            <a href="https://bsky.app/profile/maxduganknight.bsky.social">
-                <svg class="svg-icon">
-                    <use xlink:href="/assets/images/bluesky_media_kit_logo.svg"></use>
-                </svg>
-                <span class="username">maxduganknight.bsky.social</span>
-            </a>
-        </li>
-        <li>
+		<li>
+			<a href="https://bsky.app/profile/maxduganknight.bsky.social">
+				<svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#bluesky"></use></svg>
+				<span class="username">maxduganknight.bsky.social</span>
+			</a>
+		</li>
             <a href="https://github.com/maxduganknight">
                 <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
                 <span class="username">maxduganknight</span>
