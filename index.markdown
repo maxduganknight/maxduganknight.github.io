@@ -25,7 +25,7 @@ Feel free to explore some of my previous work using the Projects link above and 
         </li>
         <li>
             <a href="https://bsky.app/profile/maxduganknight.bsky.social">
-                <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#bluesky"></use></svg>
+                <img src="/assets/bluesky_media_kit_logo.svg" class="svg-icon" alt="Bluesky"/>
                 <span class="username">maxduganknight.bsky.social</span>
             </a>
         </li>
