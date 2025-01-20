@@ -25,7 +25,7 @@ Feel free to explore some of my previous work using the Projects link above and 
         </li>
         <li>
             <a href="https://bsky.app/profile/maxduganknight.bsky.social">
-                <img src="/assets/bluesky_media_kit_logo.svg" class="svg-icon" alt="Bluesky"/>
+                <img src="/assets/bluesky_media_kit_logo.svg" class="svg-icon" alt="Bluesky" style="filter: brightness(0) saturate(100%) invert(55%) sepia(0%) saturate(27%) hue-rotate(152deg) brightness(94%) contrast(93%);"/>
                 <span class="username">maxduganknight.bsky.social</span>
             </a>
         </li>
