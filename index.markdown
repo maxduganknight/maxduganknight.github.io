@@ -23,12 +23,13 @@ Feel free to explore some of my previous work using the Projects link above and 
                 <span class="username">maxduganknight</span>
             </a>
         </li>
-		<li>
-			<a href="https://bsky.app/profile/maxduganknight.bsky.social">
-				<svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#bluesky"></use></svg>
-				<span class="username">maxduganknight.bsky.social</span>
-			</a>
-		</li>
+        <li>
+            <a href="https://bsky.app/profile/maxduganknight.bsky.social">
+                <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#bluesky"></use></svg>
+                <span class="username">maxduganknight.bsky.social</span>
+            </a>
+        </li>
+        <li>
             <a href="https://github.com/maxduganknight">
                 <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
                 <span class="username">maxduganknight</span>
