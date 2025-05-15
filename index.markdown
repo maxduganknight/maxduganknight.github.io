@@ -5,9 +5,9 @@
 layout: home
 ---
 
-Welcome! I'm a Data Scientist working to address the climate crisis. I love data visualization, geospatial data, machine learning, and I'm passionate about making the climate crisis visible.  
+Welcome! I'm a Data Scientist working on climate. I love data visualization, geospatial data, machine learning, and I'm passionate about making the climate crisis visible.  
 
-I work at [Deep Sky][Deep_Sky], the company scaling carbon removal technology in Canada, where I lead climate research. I've put out research on rapidly changing wildfire conditions, hurricane intensity, and crop failure from heat waves. You can find my work here: [Deep Sky Research][Deep_Sky_Research]. I've been quoted in Forbes, ABC News, Euro News, Newsweek, Realtor.com and more.
+I work at [Deep Sky][Deep_Sky] where I lead climate research. I've put out research on rapidly changing wildfire conditions, hurricane intensity, and crop failure from heat waves. You can find my work here: [Deep Sky Research][Deep_Sky_Research]. I've been quoted in CBS News, Forbes, ABC News, Euro News, Newsweek, Realtor.com and more.
 
 Before Deep Sky I worked at [DataRobot][DataRobot] where I helped organizations create value from their data using automated machine learning. I advised insurance companies on their risk modeling and manurfacturing companies on their supply chain, all using machine learning. 
 

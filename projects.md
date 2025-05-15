@@ -13,9 +13,22 @@ This page has a sample of projects I've worked on. More projects can be found on
 
 <br><br>
 
-### [Tackling Churn with ML - Before Modelling][proj-churn]
+### [Deep Sky Climate Dashboard][proj_ds_research]
 
-I co-wrote a blog post about how to address customer churn using machine learning and DataRobot and avoid common pitfalls. 
+I designed, built, and deployed this public-facing dashboard tracking climate metrics using publicly available climate datasets.
+
+[<img src="/proj_ds_research/dashboard.png" width="450"/>][proj_ds_research]<br><br><br>
+
+### [Deep Sky Carbon Markets Dashboard][proj_ds_customers]
+
+I built another public dashboard for Deep Sky sales team to present live data on developing carbon markets. 
+
+[<img src="/proj_ds_customers/cdr_markets_dashboard.png.png" width="450"/>][proj_ds_customers]<br><br><br>
+
+
+### [Tackling Customer Churn with Machine Learning][proj-churn]
+
+I wrote a blog post about how to address customer churn using machine learning and DataRobot and avoid common pitfalls. 
 
 [<img src="/proj_churn/safer.png" width="450"/>][proj-churn]<br><br><br>
 
