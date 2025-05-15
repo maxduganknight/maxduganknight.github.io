@@ -23,7 +23,7 @@ I designed, built, and deployed this public-facing dashboard tracking climate me
 
 I built another public dashboard for Deep Sky sales team to present live data on developing carbon markets. 
 
-[<img src="/proj_ds_customers/cdr_markets_dashboard.png.png" width="450"/>][proj_ds_customers]<br><br><br>
+[<img src="/proj_ds_customers/cdr_markets_dashboard.png" width="450"/>][proj_ds_customers]<br><br><br>
 
 
 ### [Tackling Customer Churn with Machine Learning][proj-churn]
